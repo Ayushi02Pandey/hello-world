@@ -1,0 +1,4 @@
+def prod(q,w):
+ prod=q*w
+print(prod)
+prod(2,3)
